@@ -1,3 +1,9 @@
 .DS_STORE
 .idea
+example-01/node_modules
+example-02/node_modules
+example-03/node_modules
+example-04/node_modules
 example-05/node_modules
+example-06/node_modules
+example-07/node_modules
